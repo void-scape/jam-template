@@ -6,7 +6,7 @@ on:
       - '*'
 
 env:
-  binary: jam-template
+  binary: ${{ github.repository }}
   #itch_target: <itch.io-username>/<game-name>
 
 jobs:
