@@ -1,5 +1,5 @@
 [package]
-name = "jam-template"
+name = "jam-template" # CHANGE TO NAME OF REPO!
 version = "0.1.0"
 edition = "2024"
 
